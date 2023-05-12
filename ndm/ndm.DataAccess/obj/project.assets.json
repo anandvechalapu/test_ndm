@@ -491,11 +491,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Amar\\Debug\\Apps\\1\\896\\202305124534\\ndm\\ndm.DataAccess\\ndm.DataAccess.csproj",
+      "projectUniqueName": "C:\\Amar\\Debug\\Apps\\1\\898\\202305125354\\ndm\\ndm.DataAccess\\ndm.DataAccess.csproj",
       "projectName": "ndm.DataAccess",
-      "projectPath": "C:\\Amar\\Debug\\Apps\\1\\896\\202305124534\\ndm\\ndm.DataAccess\\ndm.DataAccess.csproj",
+      "projectPath": "C:\\Amar\\Debug\\Apps\\1\\898\\202305125354\\ndm\\ndm.DataAccess\\ndm.DataAccess.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Amar\\Debug\\Apps\\1\\896\\202305124534\\ndm\\ndm.DataAccess\\obj\\",
+      "outputPath": "C:\\Amar\\Debug\\Apps\\1\\898\\202305125354\\ndm\\ndm.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -510,8 +510,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Amar\\Debug\\Apps\\1\\896\\202305124534\\ndm\\ndm.DTO\\ndm.DTO.csproj": {
-              "projectPath": "C:\\Amar\\Debug\\Apps\\1\\896\\202305124534\\ndm\\ndm.DTO\\ndm.DTO.csproj"
+            "C:\\Amar\\Debug\\Apps\\1\\898\\202305125354\\ndm\\ndm.DTO\\ndm.DTO.csproj": {
+              "projectPath": "C:\\Amar\\Debug\\Apps\\1\\898\\202305125354\\ndm\\ndm.DTO\\ndm.DTO.csproj"
             }
           }
         }
