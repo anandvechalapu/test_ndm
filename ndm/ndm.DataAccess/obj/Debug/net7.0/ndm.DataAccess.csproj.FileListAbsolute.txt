@@ -13,3 +13,11 @@ C:\Amar\Debug\Apps\1\897\202305122353\ndm\ndm.DataAccess\obj\Debug\net7.0\ndm.Da
 C:\Amar\Debug\Apps\1\897\202305122353\ndm\ndm.DataAccess\obj\Debug\net7.0\refint\ndm.DataAccess.dll
 C:\Amar\Debug\Apps\1\897\202305122353\ndm\ndm.DataAccess\obj\Debug\net7.0\ndm.DataAccess.pdb
 C:\Amar\Debug\Apps\1\897\202305122353\ndm\ndm.DataAccess\obj\Debug\net7.0\ref\ndm.DataAccess.dll
+C:\Amar\Debug\Apps\1\895\202305123804\ndm\ndm.DataAccess\obj\Debug\net7.0\ndm.DataAccess.csproj.AssemblyReference.cache
+C:\Amar\Debug\Apps\1\895\202305123804\ndm\ndm.DataAccess\obj\Debug\net7.0\ndm.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Amar\Debug\Apps\1\895\202305123804\ndm\ndm.DataAccess\obj\Debug\net7.0\ndm.DataAccess.AssemblyInfoInputs.cache
+C:\Amar\Debug\Apps\1\895\202305123804\ndm\ndm.DataAccess\obj\Debug\net7.0\ndm.DataAccess.AssemblyInfo.cs
+C:\Amar\Debug\Apps\1\895\202305123804\ndm\ndm.DataAccess\obj\Debug\net7.0\ndm.DataAccess.csproj.CoreCompileInputs.cache
+C:\Amar\Debug\Apps\1\895\202305123804\ndm\ndm.DataAccess\obj\Debug\net7.0\ndm.DataAccess.dll
+C:\Amar\Debug\Apps\1\895\202305123804\ndm\ndm.DataAccess\obj\Debug\net7.0\refint\ndm.DataAccess.dll
+C:\Amar\Debug\Apps\1\895\202305123804\ndm\ndm.DataAccess\obj\Debug\net7.0\ndm.DataAccess.pdb

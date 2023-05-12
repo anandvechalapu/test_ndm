@@ -15,3 +15,6 @@ C:\Amar\Debug\Apps\1\897\202305122353\ndm\ndm.Service\obj\Debug\net7.0\ndm.Servi
 C:\Amar\Debug\Apps\1\897\202305122353\ndm\ndm.Service\obj\Debug\net7.0\refint\ndm.Service.dll
 C:\Amar\Debug\Apps\1\897\202305122353\ndm\ndm.Service\obj\Debug\net7.0\ndm.Service.pdb
 C:\Amar\Debug\Apps\1\897\202305122353\ndm\ndm.Service\obj\Debug\net7.0\ref\ndm.Service.dll
+C:\Amar\Debug\Apps\1\895\202305123804\ndm\ndm.Service\obj\Debug\net7.0\ndm.Service.dll
+C:\Amar\Debug\Apps\1\895\202305123804\ndm\ndm.Service\obj\Debug\net7.0\refint\ndm.Service.dll
+C:\Amar\Debug\Apps\1\895\202305123804\ndm\ndm.Service\obj\Debug\net7.0\ndm.Service.pdb

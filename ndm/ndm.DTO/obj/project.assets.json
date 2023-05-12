@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Amar\\Debug\\Apps\\1\\897\\202305122353\\ndm\\ndm.DTO\\ndm.DTO.csproj",
+      "projectUniqueName": "C:\\Amar\\Debug\\Apps\\1\\895\\202305123804\\ndm\\ndm.DTO\\ndm.DTO.csproj",
       "projectName": "ndm.DTO",
-      "projectPath": "C:\\Amar\\Debug\\Apps\\1\\897\\202305122353\\ndm\\ndm.DTO\\ndm.DTO.csproj",
+      "projectPath": "C:\\Amar\\Debug\\Apps\\1\\895\\202305123804\\ndm\\ndm.DTO\\ndm.DTO.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Amar\\Debug\\Apps\\1\\897\\202305122353\\ndm\\ndm.DTO\\obj\\",
+      "outputPath": "C:\\Amar\\Debug\\Apps\\1\\895\\202305123804\\ndm\\ndm.DTO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
