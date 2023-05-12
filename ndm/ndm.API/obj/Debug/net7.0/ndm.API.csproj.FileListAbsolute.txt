@@ -46,3 +46,6 @@ C:\Amar\Debug\Apps\1\897\202305122353\ndm\ndm.API\bin\Debug\net7.0\ndm.DataAcces
 C:\Amar\Debug\Apps\1\895\202305123804\ndm\ndm.API\obj\Debug\net7.0\ndm.API.dll
 C:\Amar\Debug\Apps\1\895\202305123804\ndm\ndm.API\obj\Debug\net7.0\refint\ndm.API.dll
 C:\Amar\Debug\Apps\1\895\202305123804\ndm\ndm.API\obj\Debug\net7.0\ndm.API.pdb
+C:\Amar\Debug\Apps\1\896\202305124534\ndm\ndm.API\obj\Debug\net7.0\ndm.API.dll
+C:\Amar\Debug\Apps\1\896\202305124534\ndm\ndm.API\obj\Debug\net7.0\refint\ndm.API.dll
+C:\Amar\Debug\Apps\1\896\202305124534\ndm\ndm.API\obj\Debug\net7.0\ndm.API.pdb

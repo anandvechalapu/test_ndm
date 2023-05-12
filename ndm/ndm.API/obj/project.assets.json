@@ -6381,11 +6381,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Amar\\Debug\\Apps\\1\\895\\202305123804\\ndm\\ndm.API\\ndm.API.csproj",
+      "projectUniqueName": "C:\\Amar\\Debug\\Apps\\1\\896\\202305124534\\ndm\\ndm.API\\ndm.API.csproj",
       "projectName": "ndm.API",
-      "projectPath": "C:\\Amar\\Debug\\Apps\\1\\895\\202305123804\\ndm\\ndm.API\\ndm.API.csproj",
+      "projectPath": "C:\\Amar\\Debug\\Apps\\1\\896\\202305124534\\ndm\\ndm.API\\ndm.API.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Amar\\Debug\\Apps\\1\\895\\202305123804\\ndm\\ndm.API\\obj\\",
+      "outputPath": "C:\\Amar\\Debug\\Apps\\1\\896\\202305124534\\ndm\\ndm.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -6400,11 +6400,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Amar\\Debug\\Apps\\1\\895\\202305123804\\ndm\\ndm.DTO\\ndm.DTO.csproj": {
-              "projectPath": "C:\\Amar\\Debug\\Apps\\1\\895\\202305123804\\ndm\\ndm.DTO\\ndm.DTO.csproj"
+            "C:\\Amar\\Debug\\Apps\\1\\896\\202305124534\\ndm\\ndm.DTO\\ndm.DTO.csproj": {
+              "projectPath": "C:\\Amar\\Debug\\Apps\\1\\896\\202305124534\\ndm\\ndm.DTO\\ndm.DTO.csproj"
             },
-            "C:\\Amar\\Debug\\Apps\\1\\895\\202305123804\\ndm\\ndm.Service\\ndm.Service.csproj": {
-              "projectPath": "C:\\Amar\\Debug\\Apps\\1\\895\\202305123804\\ndm\\ndm.Service\\ndm.Service.csproj"
+            "C:\\Amar\\Debug\\Apps\\1\\896\\202305124534\\ndm\\ndm.Service\\ndm.Service.csproj": {
+              "projectPath": "C:\\Amar\\Debug\\Apps\\1\\896\\202305124534\\ndm\\ndm.Service\\ndm.Service.csproj"
             }
           }
         }

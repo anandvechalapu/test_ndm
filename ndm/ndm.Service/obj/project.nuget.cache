@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9i6hUihSNfhyxOxPRCV12kR+FbzCMuvgJu4nDByP0siJaABT62keP6/7ogQekz3rfiryZWIg+9+ZqMIi7R4I7Q==",
+  "dgSpecHash": "LkJ4WYQiQAPDX2r+H+/S+hq9UshBnjnvoWZAS01G8vwrwqbllom1VjTzPhX5uADP/HFBC7tv1M2xMIhz6b/GDw==",
   "success": true,
-  "projectFilePath": "C:\\Amar\\Debug\\Apps\\1\\895\\202305123804\\ndm\\ndm.Service\\ndm.Service.csproj",
+  "projectFilePath": "C:\\Amar\\Debug\\Apps\\1\\896\\202305124534\\ndm\\ndm.Service\\ndm.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
